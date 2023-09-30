@@ -6,4 +6,4 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 <h1>План:</h1>
 
-
+Создание WPF проекта,каков будет проект еще под вопросом!? ;)
